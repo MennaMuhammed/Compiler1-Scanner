@@ -1,0 +1,41 @@
+{ ,Comment start
+} ,Comment end
+read ,reserved word
+x ,identifier
+; ,special Characters
+{ ,Comment start
+} ,Comment end
+if ,reserved word
+0 ,number
+< ,smaller than
+x ,identifier
+then ,reserved word
+{ ,Comment start
+} ,Comment end
+fact ,identifier
+:= ,assign
+1 ,number
+; ,special Characters
+repeat ,reserved word
+fact ,identifier
+:= ,assign
+fact ,identifier
+* ,multiply
+x ,identifier
+; ,special Characters
+x ,identifier
+:= ,assign
+x ,identifier
+- ,subtract
+1 ,number
+; ,special Characters
+until ,reserved word
+x ,identifier
+= ,equal
+0 ,number
+; ,special Characters
+write ,reserved word
+fact ,identifier
+{ ,Comment start
+} ,Comment end
+end ,reserved word

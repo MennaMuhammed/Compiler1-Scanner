@@ -1,0 +1,7 @@
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\bin\Debug\Compiler1-Scanner.exe.config
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\bin\Debug\Compiler1-Scanner.exe
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\bin\Debug\Compiler1-Scanner.pdb
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\obj\Debug\Compiler1-Scanner.csprojResolveAssemblyReference.cache
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\obj\Debug\Compiler1-Scanner.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\obj\Debug\Compiler1-Scanner.exe
+C:\Users\A\source\repos\Compiler1-Scanner\Compiler1-Scanner\obj\Debug\Compiler1-Scanner.pdb
